@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// create an axios instance for API requests
+// create axios instance for API requests
 const apiClient = axios.create({
   baseURL: import.meta.env.VITE_API_BASE_URI,
   withCredentials: true, // for sending cookies
