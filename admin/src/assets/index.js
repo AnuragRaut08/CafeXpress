@@ -14,7 +14,7 @@ import saladsImage from "./images/cat_salads.png";
 import mealsImage from "./images/meals.png";
 import nonVegImage from "./images/cat_nonVeg.png";
 import vegImage from "./images/cat_veg.jpg";
-
+// export
 export {
   backgroundImg1,
   backgroundImg2,
