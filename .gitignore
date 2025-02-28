@@ -3,7 +3,7 @@
 /admin/node_modules
 /api/node_modules
 
-# Environment variables
+# Environment variables below
 .env
 
 # Logs
